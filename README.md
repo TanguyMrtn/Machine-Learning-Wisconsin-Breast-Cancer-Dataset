@@ -6,7 +6,7 @@
 
 3) Install the requirements : run " pip install -r requirements.txt "
 
-4) Run " jupyter-lab " in a command prompt / linux shell
+4) Run " jupyter-lab " in a command prompt / linux shell, place yourself in the project root
 
 5) Open Project.ipynb
 
