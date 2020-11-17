@@ -1,5 +1,7 @@
 # User Manual : Machine Learning on Wisconsin Breast Cancer Dataset
 
+How to run this project (Project.ipynb file)
+
 1) Pull this project
 
 2) Open a command prompt / linux shell
